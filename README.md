@@ -15,6 +15,7 @@
 ![pedia](https://user-images.githubusercontent.com/109786604/180400077-59d4be59-d451-4193-ae20-1f07f5bcbb00.jpg)
 ![derma](https://user-images.githubusercontent.com/109786604/180400057-2dd54ea8-c4ba-4379-9fb5-65842bd9df02.jpg)
 # Demo Video
+Click [here](https://youtu.be/LOffYcQ8FWQ) to watch the Application Demo
 # Dev Team
 * Arnel Caminos
 * Rewi Monique
