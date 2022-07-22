@@ -1,4 +1,5 @@
 # Online-Aid
+![logo](https://user-images.githubusercontent.com/109786604/180400066-1beaf4f3-4c61-4db3-a23f-39f6221e3c06.jpg)
 * Online aid are "when you speak to someone online about a health concern or fill out an online form." Using online consultations has several advantages for both you and your practice, which we'll go through as we go. There are several distinct kinds of online consultations, as there are for everything. While some contain mostly open text boxes, others could be more structured and pose more targeted queries.
 # Overview 
 * An additional method for scheduling appointments has lately developed on the Internet. Mobile-based appointment scheduling has become a well-liked subject of study. Mobile -based appointment scheduling is a crucial element, according to several studies' satisfaction surveys, and the majority of patients said they would use the service again.
